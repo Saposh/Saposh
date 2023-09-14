@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sapar
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Python,JS 
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning Java and frameworks 
 - 💞️ I’m looking to collaborate on something intersting
 - 📫 How to reach me ... Here is my telegram (@Sapow)
 
